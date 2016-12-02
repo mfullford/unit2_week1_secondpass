@@ -15,3 +15,9 @@ The image below is a high-level (10,000 foot) view of how a full-stack app can b
 And here is Nick and my creation for the low-level (10 foot) view.
 
 ![](fullStack.jpg)
+
+### Folder Structure
+
+Next week, we will build a folder structure for Project 2.  The template below is a good way to start if you want to keep all the parts of your full-stack app organized.
+
+![](folderStructure.jpg)
