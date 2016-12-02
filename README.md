@@ -13,3 +13,5 @@ The image below is a high-level (10,000 foot) view of how a full-stack app can b
 ![](MEAN_stack.png)
 
 And here is Nick and my creation for the low-level (10 foot) view.
+
+![](fullStack.jpg)
