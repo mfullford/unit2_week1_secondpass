@@ -1,10 +1,4 @@
-# Node, Express, and Mongo Second Pass
-
-### Node Activity
-
-For those who are feeling a little fuzzy on Node itself, the following is a test-driven tutorial through the main features of Node:
-
-[LearnYouNode](https://github.com/workshopper/learnyounode)
+# Node, Express, EJS, and Mongo Second Pass
 
 ### Full-Stack App
 
@@ -12,12 +6,10 @@ The image below is a high-level (10,000 foot) view of how a full-stack app can b
 
 ![](MEAN_stack.png)
 
+Here is Nick's creation for a mid-level (1,000 foot) view.
+
+![](TheStack_Letter.png)
+
 And here is Nick and my creation for the low-level (10 foot) view.
 
 ![](fullStack.jpg)
-
-### Folder Structure
-
-Next week, we will build a folder structure for Project 2.  The template below is a good way to start if you want to keep all the parts of your full-stack app organized.
-
-![](folderStructure.jpg)
